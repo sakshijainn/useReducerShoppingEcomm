@@ -4,7 +4,7 @@ import {cartReducer} from "./Reducer"
 
 
 const Cart  = createContext();
-
+faker.seed(99)
 
 const Context = ({children}) => {
 

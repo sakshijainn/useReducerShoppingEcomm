@@ -31,3 +31,9 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
+
+.products
+{
+  width:30%;
+  margin: 10px;
+}
